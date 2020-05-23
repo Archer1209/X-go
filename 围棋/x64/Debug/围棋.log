@@ -1,0 +1,10 @@
+﻿  Go.cpp
+  Stone.cpp
+e:\复习资料\游戏程序设计\项目代码\围棋\围棋\stone.cpp(31): warning C4244: “参数”: 从“T”转换到“float”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+  main.cpp
+  正在生成代码...
+  围棋.vcxproj -> E:\复习资料\游戏程序设计\项目代码\围棋\x64\Debug\围棋.exe
